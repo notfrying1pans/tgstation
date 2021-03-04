@@ -7897,10 +7897,6 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,
 /turf/open/floor/iron/dark,
 /area/ai_monitored/turret_protected/ai_upload)
-"aCS" = (
-/obj/effect/spawner/structure/window/reinforced,
-/turf/open/floor/plating/asteroid/snow/icemoon,
-/area/maintenance/solars/port/fore)
 "aCU" = (
 /obj/machinery/conveyor{
 	id = "garbage"
@@ -73394,7 +73390,7 @@ boP
 xrV
 boP
 bwo
-aCS
+ajV
 ajV
 ajV
 alQ
@@ -73908,7 +73904,7 @@ boP
 xrV
 boP
 pjX
-aCS
+ajV
 ajV
 ajV
 alS
