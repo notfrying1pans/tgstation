@@ -384,7 +384,7 @@
 	list_reagents = list(/datum/reagent/toxin/plantbgone = 100)
 
 /obj/item/reagent_containers/spray/syndicate
-	name = "suspicious spray bottle"
+	name = "syndicate spray bottle"
 	desc = "A spray bottle, with a high performance plastic nozzle. The color scheme makes you feel slightly uneasy."
 	icon = 'icons/obj/chemical.dmi'
 	icon_state = "sprayer_syndie_8"
